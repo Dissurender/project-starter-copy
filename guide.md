@@ -1,58 +1,67 @@
-# .{project name}
+# Harp (harpocrates)
 
 _{one sentence [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch)}_
 
+App that's privacy first, with function to deliver modular additions to meet the clients needs.
+
 ## Features
 
-* {feature 1}
-* {feature 2}
-* {feature 3}
+- opt-in modules
+- data security / encryption
+- {feature 3}
 
 ---
 
 ## Story
 
 ### who
-* {who will use the app?}
-* {management, customers, employees, etc}
+
+- general purpose
+- privacy minded people
 
 ### what
+
 _{copy from elevator pitch above}_
 
 {expand into idea, no more than 3 sentences}
 
-
 ### where
-* {where will it be used?}
-* {at home, at the park, grocery shopping}
+
+- MVP for 'desktop'
+- {at home, at the park, grocery shopping}
 
 ### when
-* {when will it be used?}
-* {at night, when hungry, if tired}
+
+- start/end of day or as needed
+- {at night, when hungry, if tired}
 
 ### how
-* {how will users interact with it?}
-* {QR scanning, mobile app, desktop}
+
+- {how will users interact with it?}
+- {QR scanning, mobile app, desktop}
 
 ---
 
 ## MVP
+
 > :bulb: **Minimum Viable Product** _what features are needed for it to fulfill its basic purpose_
 
-* {big feature}
-* {big feature}
-* {small feature}
+- functionality to handle modular additions
+- encryption
+- UX
 
 ## V2
+
 > :pencil: **Bug squashing and some cleanup** _check with users to see what can improve_
 
-* {bug fix}
-* {bug fix}
-* {QoL / small feature}
+- {bug fix}
+- {bug fix}
+- {QoL / small feature}
 
 ---
 
 ## Design Order
+
 1. make multiple users, and how they use the app [^1]
 1. think about data and how it relates to the app and user [^2]
 1. create wireframes [^3]
@@ -66,14 +75,14 @@ _A kanban board, but within your todo list_
 
 `[ ] do the thing` use in lists
 
-`@status thing to check later` use in comments throughout your project 
+`@status thing to check later` use in comments throughout your project
 
 ```md
 [ ] @todo
 [?] @think
 [o] @doing
 [/] @block
-  @block: _insert issue here_
+@block: _insert issue here_
 [>] @hack
 [!] @fixme
 [x] @done
@@ -85,9 +94,9 @@ _A kanban board, but within your todo list_
 **Octo's recommended tools**
 _these are the only ones I use when making things_
 
-* [figma](https://figma.com) - wireframing and mockups
-* [codepen](https://codepen.io) - small code and css sketches
-* [vscode](https://code.visualstudio.com/) - writing code
+- [figma](https://figma.com) - wireframing and mockups
+- [codepen](https://codepen.io) - small code and css sketches
+- [vscode](https://code.visualstudio.com/) - writing code
 
 [^1]: [10 tips for writing good user stories](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)
 [^2]: [how to make an ER diagram](https://youtu.be/QpdhBUYk7Kk)
